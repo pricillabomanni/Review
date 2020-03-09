@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
+}
+
+i{
+    vertical-align: top;
+    margin: 1%;
+    margin-top: 3%;
+}
+
+textarea{
+   resize: none;
+   margin-top: 3%;
+   margin-left: 3%;
+   width: 285px;
+   border: 2px solid rgb(0, 255, 8);
+   
+   
+}
+
+nav{
+    width: 22%;     
+    height: 360px;       
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 5px;
+    background-color: rgba(70, 95, 68, 0.774);
+    border: 2px solid rgb(0, 240, 8);
+}
+
+#botao{
+    margin-top: 1%;
+    margin-left: 40%;
+    width: 60px;
+    height: 30px;
+    border: 1px solid;
+    background-color: rgb(168, 240, 195);
+    border: 2px solid rgb(0, 255, 8)
+       
+}
+
+#nomep{
+    margin-top: 5%;
+    margin-left: 2%;
+} 
+
+ #nome{
+    margin-top: 4%;
+    margin-left: 2%;
+    width: 285px;
+    height: 30px;
+    border: 2px solid rgb(0, 255, 8);    
+}
+
+#emailp{  
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+#email{
+    margin-top: 4%;
+    margin-left: 2%;
+    width: 285px;
+    height: 30px;
+    border: 2px solid rgb(0, 255, 8);
+}
+
+#box {
+    width: 100%;    
+    background: url("https://cdn.pixabay.com/photo/2017/06/25/21/12/background-2442009_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
